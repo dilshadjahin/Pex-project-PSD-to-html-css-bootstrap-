@@ -1,0 +1,395 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+/**********************
+ header section css
+************************/
+
+header{
+	width: 100%;
+	background: url("../img/background-img.png") center top no-repeat !important;
+	background-size: cover;
+}
+.nav-link{
+	color: white !important;
+	padding: 50px 23px;
+
+}
+
+/**********************
+ banner section css
+************************/
+
+.banner-left{
+	padding: 300px 0px;
+	margin-left: 100px;
+}
+.banner-left .heading-1 h1{
+color: white;
+font-weight: 400;
+}
+.banner-left .heading-2 h1{
+color: white;
+margin-left: 70px;
+font-weight: 400;
+margin-bottom: 40px;
+}
+
+.banner-left .banner-btn button {
+	width: 220px;
+	height: 52px;
+	background: #8824cd;
+	color: white;
+	font-weight: 600;
+	margin-left: 160px;
+	line-height: 3px;
+	border: 1px solid #b87ce1;
+	border-radius: 100px;
+} 
+.banner-left p{
+	font-size: 12px;
+	color: #ab969a;
+	margin-left: 150px;
+	font-weight: 600;
+	margin-top: 10px;
+}
+
+/**********************
+ feature-1 section css
+************************/
+
+.feature-1{
+	background: #2e3b4e ;
+	color: white;
+	margin-bottom: 0px;
+	}
+
+
+.feature-text-left{
+	padding: 95px 80px 20px 20px;
+	padding-left: 50px;
+	padding-right: 0px;
+}
+.feature-text-left-top h5 {
+	margin-top: 50px;
+
+}
+.feature-text-left-top p {
+	margin-top: 40px;
+	color: #ffffff;
+	font-weight: 400;
+
+}
+.feature-text-left-bottom h5{
+	margin-top: 50px;
+
+}
+.feature-text-left-bottom p{
+	margin-top: 40px;
+	color: #ffffff;
+	font-weight: 400;
+	margin-bottom: 100px;
+}
+
+
+
+.feature-text-right{
+	padding: 95px 80px 0px 20px;
+	padding-right: 0px;
+}
+.feature-text-right-top h5 {
+	margin-top: 50px;
+
+}
+.feature-text-right-top p {
+	margin-top: 40px;
+	color: #ffffff;
+	font-weight: 400;
+
+}
+.feature-text-right-bottom h5{
+	margin-top: 50px;
+
+}
+.feature-text-right-bottom p{
+	margin-top: 40px;
+	color: #ffffff;
+	font-weight: 400;
+	margin-bottom: 100px;
+}
+
+
+
+/**********************
+ pink-feature section css
+************************/
+
+
+
+.pink-feature{
+	width: 100%;
+	padding: 100px 0px;
+	background: url("../img/pink-bg.png") center top no-repeat !important;
+	background-size: cover;
+	text-align: center;
+	color: white;
+}
+.pink-feature h5{
+	margin-top: 50px;
+
+}
+.pink-feature p{
+	margin-top: 40px;
+	margin-bottom: 30px;
+
+}
+
+.pink-feature-btn button{
+	width: 260px;
+	height: 54px;
+	background: #ffffff;
+	color: #d54c63;
+	font-weight: 600;
+	margin-left: 50px;
+	line-height: 3px;
+	border: 1px solid #d54c63;
+	border-radius: 100px;
+	margin-bottom: 100px;
+}
+
+/**********************
+ feature-heading section css
+************************/
+
+
+
+.feature-heading-para{
+	text-align: left;
+	margin-bottom: 100px;
+	margin-top: 150px;
+	margin-left: 360px;
+}
+
+.feature-heading-para h5{
+	color: #3a4d60;
+	font-size: 15px;
+	font-weight: 400;
+}
+
+.feature-heading-para .para-1 p{
+	color: #6f7a86;
+	font-size: 17px;
+	font-weight: 400;
+	margin-bottom: 30px;
+}
+.feature-heading-para .para-2 p{
+	color: #7d8792;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+
+/**********************
+ feature-shadow section css
+************************/
+
+
+.feature-shadow{
+	width: 100%;
+	padding-top: 100px;
+	background: url("../img/Pex-shadow.png") center top no-repeat !important;
+	background-size: cover;
+	text-align: center;
+	color: white;
+}
+
+
+.feature-shadow h2{
+	margin-top: 90px;
+
+}
+.feature-shadow p{
+	color: #976aa6;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	font-weight: 400;
+
+}
+
+.feature-shadow-btn button{
+	width: 260px;
+	height: 54px;
+	background: #8824cd;
+	color: white;
+	font-weight: 600;
+	margin-left: 50px;
+	line-height: 3px;
+	border: 1px solid #b87ce1;
+	border-radius: 100px;
+	
+}
+.feature-shadow .little-pera p{
+	font-size: 11.95px;
+	color: #d2c7d6;
+	margin-left: 50px;
+	margin-bottom: 100px;
+	margin-top: 30px;
+
+}
+/**********************
+ Author opinion section css
+************************/
+
+.author-opinion{
+	width: 100%;
+	height: 100vh;
+	padding: 0px 50px;	
+	background: url("../img/pex-author-bg.png") center top no-repeat !important;
+	background-size: cover;
+	color: white;
+}
+.author-opinion-left button{
+	width: 180px;
+	height: 45px;
+	background: transparent;
+	color: white;
+	font-weight: 600;
+	margin-left: 50px;
+	line-height: 3px;
+	border: 3px solid white;
+	border-radius: 80px;
+	margin-top: 280px;
+	
+}
+
+.author-opinion-left h3{
+	margin-top: 25px;
+	margin-left: 50px;
+	font-weight: 400;
+
+
+}
+.author-opinion-left img{
+	margin-left: 50px;
+	margin-top: 12px;
+
+}
+.author-cmnt p{
+	font-size: 12px;
+	margin-top: 33px;
+	padding-left: 30px;
+	font-weight: 600;
+
+}
+
+
+/**********************
+ feature-heading part-2 section css
+************************/
+
+
+.feature-heading-part-2{
+	width: 100%;
+	text-align: center;
+}
+
+
+.feature-heading-part-2-para{
+	text-align: left;
+	margin-top: 50px;
+
+}
+
+.feature-heading-part-2-para h5{
+	color: #3a4d60;
+	font-size: 15px;
+	font-weight: 400;
+	margin-left: 5px;
+	margin-top: 80px;
+}
+
+.feature-heading-part-2-para .p-1 p{
+	color: #6f7a86;
+	font-size: 17px;
+	font-weight: 400;
+	margin-bottom: 30px;
+}
+.feature-heading-part-2-para .p-2 p{
+	color: #7d8792;
+	font-size: 14px;
+	font-weight: 400;
+}
+.feature-heading-part-2-bg img{
+	margin-top: -60px;
+	margin-left:  -69px;
+}
+
+
+
+/**********************
+ footer top section css
+************************/
+
+
+.footer-top{
+	background: #e7526b ;
+	width: 100%;
+	height: 50vh;
+	color: white;
+	padding-top: 60px;
+	padding-left: 60px;
+}
+
+.footer-top h5{
+	font-size: 15px;
+	text-transform: uppercase;
+	font-weight: 600;
+
+}
+
+.footer-top p{
+	font-size: 12px;
+	font-weight: 400;
+}
+
+.footer-top span {
+	font-size: 12px;
+	font-weight: 400;
+	text-decoration: underline;
+}
+
+
+
+/**********************
+ footer bottom section css
+************************/
+
+.footer-bottom{
+
+	background: #2e3b4e ;
+	width: 100%;
+	height: 40vh;
+	color: white;
+
+}
+.footer-bottom-para p{
+	font-size: 12px;
+	font-weight: 400;
+	padding-top: 40px;
+	padding-left: 25px;
+}
+
+
+
+
+
+
+
+
+
+
